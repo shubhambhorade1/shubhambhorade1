@@ -34,7 +34,7 @@ const shubham = {
 - 💻 Passionate about **Frontend Development** and **UI Design**
 - ☁️ **AWS Generative AI Foundations** certified
 - 🤖 Exploring the intersection of **Web + AI**
-- 🌐 Portfolio → [shubham778736.github.io/My-portfolio-/](https://shubham778736.github.io/My-portfolio-/)
+- 🌐 Portfolio → [https://shubhambhorade1.github.io/My-portfolio-/)
 - 📬 Reach me at **bhoradeshubham16@gmail.com**
 - ⚡ Fun fact: I believe clean code is an art form
 
