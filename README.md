@@ -134,7 +134,7 @@ const shubham = {
 
 [![GitHub](https://img.shields.io/badge/GitHub-shubhambhorade1-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shubhambhorade1)
 [![Email](https://img.shields.io/badge/Email-bhoradeshubham16%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhoradeshubham16@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-7dd3fc?style=for-the-badge&logo=githubpages&logoColor=white)](https://shubham778736.github.io/My-portfolio-/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-7dd3fc?style=for-the-badge&logo=githubpages&logoColor=white)](https://shubhambhorade1github.io/My-portfolio-/)
 
 </div>
 
